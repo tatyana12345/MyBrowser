@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Browser</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="dev">О разработчике</string>
+    <string name="title_activity_hisory">HisoryActivity</string>
+    <string name="history">история</string>
+    <string name="delete">удалить</string>
+    <string name="title_activity_show_page_from_history">ShowPageFromHistoryActivity</string>
+</resources>
